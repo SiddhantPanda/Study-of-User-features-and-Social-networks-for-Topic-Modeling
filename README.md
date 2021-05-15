@@ -1,2 +1,5 @@
 # Study-of-User-features-and-Social-networks-for-Topic-Modeling
-This repo contains all the codes and other important stuffs related to our final semester project.
+In recent years, social media platforms, such as Facebook, LinkedIn, Twitter, and Instagram, have gained in popularity and have become ubiquitous in our daily lives, where rich user-generated texts are propagated through them. The existing topic models focus on traditional document collections, which consists of a relatively small number of long and high-quality documents. However, user-generated texts tend to be shorter and noisier than traditional content. Besides, the social networks have two novel features: context information on nodes, such as user features, and edges, such as relationships, which have not been considered by the existing topic models.
+
+
+In this project, we have addressed the problem of finding user topics in a large-scale collection of documents from online social networks. We have tried to design a comprehensive feature-based and social-based topic model, taking into account and model the user features and social network.
